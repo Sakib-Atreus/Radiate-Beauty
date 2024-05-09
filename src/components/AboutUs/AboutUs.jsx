@@ -1,4 +1,5 @@
 import onnebw from "../../assets/onne-bw.png";
+import '../AboutUs/AboutUs.css';
 
 const AboutUs = () => {
   return (
@@ -29,9 +30,11 @@ const AboutUs = () => {
           at <br /> tincidunt. Rutrum tristique fusce pretium aliquet egestas
           faucibus <br /> tortor tortor in.
         </p>
-        <button className="btn bg-[#FFAF00] text-white rounded-br-3xl hover:text-black">
-          View Details
-        </button>
+        <div className="">
+          <button className="shadow-2xl shadow-gray-400 btn bg-[#FFAF00] px-12 text-white rounded-br-2xl rounded-tr-2xl buttons-1 hover:text-black">
+            View Details
+          </button>
+        </div>
       </div>
     </div>
   );
