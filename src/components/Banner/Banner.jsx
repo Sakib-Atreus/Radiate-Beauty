@@ -11,9 +11,9 @@ const Banner = () => {
                 <h1 className='text-6xl mb-6 font-semibold'>True <span className='text-[#FFAF00]'>Beauty</span></h1>
                 <h2 className='text-4xl mb-10 font-semibold'>can radiate your uniqueness</h2>
                 <p className='mb-8 text-[#505050] font-[20px] font-Poppins'>K-Beauty got us hooked on Korean BB Creams and jelly cleansers. J-Beauty <br /> convinced us of the benefits of Japanese essences and sake ingredients. <br /> Probably we were bound to grab our beauty passports and move on to <br /> another country. And so we did: Now there{"'"}s G-Beauty.</p>
-                <div className="flex gap-4 mb-8">
-                    <button className="btn bg-[#262626] text-white rounded-br-3xl px-10 hover:text-black">View Details</button>
-                    <button className="btn bg-[#FFAF00] text-white rounded-bl-3xl px-10 hover:text-black">Add To Cart</button>
+                <div className="flex mb-8">
+                    <button className="btn bg-[#262626] text-white px-12 rounded-tr-xl rounded-br-xl hover:text-black buttons-1 shadow-lg">View Details</button>
+                    <button className="btn bg-[#FFAF00] text-white px-12 rounded-tl-xl rounded-bl-xl hover:text-black buttons-2 shadow-lg">Add To Cart</button>
                 </div>
                 <div className="flex gap-20 font-Poppins">
                     <div>
@@ -58,7 +58,7 @@ const Banner = () => {
             <div className='w-4 h-4 bg-[#FFAF00] relative -ms-[26px] -mt-[345px] rounded-full'>
                     
             </div>
-            <div className='w-4 h-4 bg-black relative ms-[850px] -mt-[604px] rounded-full'>
+            <div className='w-4 h-4 bg-black relative ms-[840px] -mt-[604px] rounded-full'>
                     
             </div>
         </div>
