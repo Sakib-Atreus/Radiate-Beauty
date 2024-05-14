@@ -6,7 +6,7 @@ const Footer = () => {
     <div>
       <footer className="footer p-10 bg-[#222122] text-neutral-content">
         <nav>
-          <h6 className="text-[#FFAF00] font-Vidaloka text-xl">Asad Ali</h6>
+          <h6 className="text-[#FFAF00] font-Vidaloka text-xl">Radiate Beauty</h6>
           <p className="text-[#CCCCCC]">
             Lorem ipsum dolor sit amet, consectetur <br /> adipiscing elit, sed
             do eiusmod tempor.
@@ -83,7 +83,7 @@ const Footer = () => {
             </div>
             <div className="flex gap-2 items-center">
               <MdOutlineMail className="text-[#FFAF00]" />{" "}
-              <p>asadali@outlook.com</p>
+              <p>radiatebeauty@mail.com</p>
             </div>
           </div>
         </nav>
@@ -93,7 +93,7 @@ const Footer = () => {
       </div>
       <footer className="footer items-center p-10 bg-[#222122] text-neutral-content">
         <aside className="items-center grid-flow-col">
-          <p>Copyright © 2024 Asad Ali. All Right Reseved</p>
+          <p>Copyright © 2024 Sakib. All Right Reseved</p>
         </aside>
         <nav className="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
           <p className="text-[#FFAF00]">EN</p>

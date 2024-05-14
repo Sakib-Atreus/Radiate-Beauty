@@ -45,7 +45,7 @@ const Navbar = () => {
             </li>
           </ul>
         </div>
-        <a href="/" className="text-xl font-semibold font-Vidaloka ">Asad Ali</a>
+        <a href="/" className="text-xl font-semibold font-Vidaloka ">Radiate Beauty</a>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1 font-Poppins text-md font-medium">
